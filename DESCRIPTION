@@ -1,0 +1,18 @@
+Package: YC
+Type: Package
+Title: Computes the Yue and Clayton similarity
+Version: 0.1.0
+Author: Laura Symul
+Maintainer: Laura Symul <lsymul@stanford.edu>
+Description: Computes the Yue and Clayton similarity between the rows of one
+    or two matrices/data.frames. For details on the Yue and Clayton similarity
+    metric, see: A Similarity Measure Based on Species Proportions, 
+    Yue and Clayton,2005, Communications in Statistics - Theory and Methods 
+    (https://www.tandfonline.com/doi/abs/10.1080/STA-200066418).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    magrittr
+RoxygenNote: 7.2.3
