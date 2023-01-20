@@ -1,2 +1,2 @@
 # YC
-R package that computes the Yue and Clayton similarity
+(ultra simple) R package that computes the Yue and Clayton similarity
